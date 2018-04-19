@@ -42,22 +42,23 @@ button:focus {
   background: #f8f9fa;
 }
 
-div.row {
+/*div.row {
   margin-left: 15px;
   margin-right: 15px;
-}
+}*/
 
-div.col-md-12 {
+/*div.col-md-12 {
   background: gray;
   margin-bottom: 15px;
-}
+}*/
 
-#menugrid {
+/*#menugrid {
   padding-left: 0px;
   padding-right: 0px;
-}
+}*/
 
+/*
 main h2 {
   margin-top: 15px;
   margin-bottom: 15px;
-}
+}*/
