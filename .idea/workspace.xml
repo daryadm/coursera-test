@@ -1,15 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f24c159-5ea9-4384-b671-efbf7560b6da" name="Default" comment="mod3 assignment">
-      <change afterPath="$PROJECT_DIR$/mod32s/index_simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod4s/README-FIRST.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod4s/SpeakGoodBye.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod4s/SpeakHello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod4s/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod4s/script.js" afterDir="false" />
+    <list default="true" id="1f24c159-5ea9-4384-b671-efbf7560b6da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/mod5s/Assignment-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/jumbotron_1200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/jumbotron_768.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/jumbotron_992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu-tile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/A/A9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/B/B9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/C/C9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CM/CM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CM/CM1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CM/CM2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CM/CM3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CM/CM4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CM/CM5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CSR/CSR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CSR/CSR1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CSR/CSR2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CSR/CSR3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CSR/CSR4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CU/CU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CU/CU21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CU/CU22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/CU/CU23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/D/D9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DK/DK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DK/DK1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DK/DK2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DK/DK3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DS/DS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DS/DS1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/DS/DS2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/F/F9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FR/FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FR/FR1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FR/FR2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FR/FR3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FR/FR4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FR/FR5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FY/FY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FY/FY1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FY/FY2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FY/FY3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FY/FY4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/FY/FY5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/L/L9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NF/NF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NF/NF10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NF/NF11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NF/NF12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NF/NF13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NL/NL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NL/NL1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NL/NL2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NL/NL3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NS/NS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NS/NS1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NS/NS2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NS/NS3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/NS/NS4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/PF/PF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/PF/PF1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/PF/PF2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/PF/PF3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/PF/PF4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/PF/PF5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SO/SO7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SP/SP8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SR/SR9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/SS/SS9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/T/T.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/T/T1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/T/T2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/T/T3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/T/T4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/V/V7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/menu/VG/VG9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/restaurant-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/restaurant-logo_large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/restaurant-logo_medium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/restaurant-logo_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/specials-tile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/images/star-k-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/js/ajax-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/snippets/categories-title-snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/snippets/category-snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/snippets/home-snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/snippets/menu-item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5s/snippets/menu-items-title.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod32s/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod32s/css/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,47 +312,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mod4s/index.html">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mod5s/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="118" column="46" selection-start-line="118" selection-start-column="46" selection-end-line="118" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod5s/snippets/home-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mod4s/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="category-snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod5s/snippets/category-snippet.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="SpeakHello.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mod4s/SpeakHello.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mod5s/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpeakGoodBye.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mod4s/SpeakGoodBye.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="-799">
+              <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -131,6 +410,7 @@
         <option value="$PROJECT_DIR$/mod4s/script.js" />
         <option value="$PROJECT_DIR$/mod4s/SpeakGoodBye.js" />
         <option value="$PROJECT_DIR$/mod4s/SpeakHello.js" />
+        <option value="$PROJECT_DIR$/mod5s/js/script.js" />
       </list>
     </option>
   </component>
@@ -170,7 +450,19 @@
             <path>
               <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="coursera-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mod4s" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mod5s" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mod5s" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mod5s" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="snippets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -257,16 +549,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="318" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="317" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fullstack-course4-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dao\PycharmProjects\coursera-test\mod5s" />
       <recent name="C:\Users\dao\PycharmProjects\coursera-test\mod4s" />
       <recent name="C:\Users\dao\PycharmProjects\coursera-test\mod32s" />
       <recent name="C:\Users\dao\PycharmProjects" />
       <recent name="C:\Documents and Settings" />
-      <recent name="C:\Users\dao\PycharmProjects\coursera-test\mod32s\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,7 +601,8 @@
       <option name="presentableId" value="Default" />
       <updated>1523302429263</updated>
       <workItem from="1523983567670" duration="2630000" />
-      <workItem from="1524078291934" duration="11292000" />
+      <workItem from="1524078291934" duration="12607000" />
+      <workItem from="1524854628250" duration="7081000" />
     </task>
     <task id="LOCAL-00001" summary="mod3 assignment">
       <created>1523650032157</created>
@@ -325,11 +618,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523650459900</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mod3 assignment">
+      <created>1524156477987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524156477987</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13922000" />
+    <option name="totallyTimeSpent" value="22318000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -341,9 +641,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1319" height="784" extended-state="6" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25479662" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25460124" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884902" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038373" side_tool="true" weight="0.32884902" />
@@ -353,18 +654,18 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49961627" weight="0.32884902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39910313" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.32884902" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.32884902" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32884902" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,6 +706,43 @@
     <option name="LAST_COMMIT_MESSAGE" value="mod3 assignment" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mod4s/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod4s/SpeakHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod4s/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod4s/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mod32s/index_simple.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1972">
@@ -609,13 +947,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../fullstack-course4-master/examples/Lecture52/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mod4s/SpeakGoodBye.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="408">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -624,8 +959,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mod4s/SpeakHello.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="323">
           <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod5s/assignment5-solution-starter/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod5s/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod4s/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -634,18 +985,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mod4s/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mod4s/script.js">
+    <entry file="file://$PROJECT_DIR$/mod5s/Assignment-5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-8" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod5s/snippets/home-snippet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod5s/snippets/category-snippet.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod5s/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mod5s/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="118" column="46" selection-start-line="118" selection-start-column="46" selection-end-line="118" selection-end-column="46" />
         </state>
       </provider>
     </entry>
